@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;//allows you to use arrays like in Java
+#include <string>
+#include <algorithm>
+
+
+
+
+//recursive fibonacci function
+int fibFunc(int x){
+  if(x==0 || x==1){
+    return x;
+  }
+  return fibFunc(x-1)+fibFunc(x-2);
+}
+
+int main() {
+
+  cout<<fibFunc(8)<<endl;
+}
