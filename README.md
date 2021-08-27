@@ -1,5 +1,5 @@
 Welcome to fibonacci-for-fun !
 
-I wanted to remind those viewing my repo's that I have C++ skills! 
-My GitHub is python-heavy, so I thought that this would be a fun addition
-Here, I am replicating the sacred "Fibonacci Sequence" using recursion... thats right - recursion.
+My GitHub is python-heavy, so I thought that it would be a smart decission to show off some of my 
+Java skills and C++ skills and Python skills! Here, I am replicating the sacred "Fibonacci Sequence" 
+with all 3 of the mentioned languages using recursion... thats right - recursion.
